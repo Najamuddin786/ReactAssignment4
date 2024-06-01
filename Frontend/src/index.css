@@ -1,0 +1,65 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #6B8E23;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #556B2F;
+}
+nav a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+nav a:hover {
+  background-color: #9ACD32;
+}
+section {
+  padding: 40px 20px;
+}
+.about-us, .contact {
+  background-color: #FFFACD;
+}
+.catalog, .delivery-packaging {
+  background-color: #B0E0E6;
+}
+h2 {
+  color: #6B8E23;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+.grid img {
+  width: 100%;
+  height: auto;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+form input, form textarea {
+  padding: 10px;
+  margin: 5px 0;
+}
+footer {
+  background-color: #556B2F;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}

@@ -1,0 +1,109 @@
+{
+  "tasks": [
+    {
+      "title": "Mobile",
+      "description": "Complete the project documentation.",
+      "assignee": "Alice",
+      "status": "In Progress",
+      "priority": 9
+    },
+    {
+      "title": "Nokia",
+      "description": "Review the design mockups.",
+      "assignee": "Bob",
+      "status": "Pending",
+      "priority": 5
+    },
+    {
+      "title": "China",
+      "description": "Fix the login bug.",
+      "assignee": "Charlie",
+      "status": "Completed",
+      "priority": 8
+    },
+    {
+      "title": "India",
+      "description": "Update the user profile page.",
+      "assignee": "Dave",
+      "status": "In Progress",
+      "priority": 3
+    },
+    {
+      "title": "Apple",
+      "description": "Refactor the authentication module.",
+      "assignee": "Eve",
+      "status": "Pending",
+      "priority": 7
+    },
+    {
+      "title": "Samsung",
+      "description": "Test the payment gateway integration.",
+      "assignee": "Frank",
+      "status": "In Progress",
+      "priority": 6
+    },
+    {
+      "title": "Amazon",
+      "description": "Deploy the latest version to production.",
+      "assignee": "Grace",
+      "status": "Pending",
+      "priority": 9
+    },
+    {
+      "title": "Google",
+      "description": "Conduct a security audit.",
+      "assignee": "Hank",
+      "status": "Completed",
+      "priority": 2
+    },
+    {
+      "title": "Microsoft",
+      "description": "Optimize the database queries.",
+      "assignee": "Ivy",
+      "status": "In Progress",
+      "priority": 5
+    },
+    {
+      "title": "Facebook",
+      "description": "Implement the search functionality.",
+      "assignee": "Jack",
+      "status": "Pending",
+      "priority": 8
+    },
+    {
+      "title": "Tesla",
+      "description": "Prepare a presentation for the client meeting.",
+      "assignee": "Kim",
+      "status": "Completed",
+      "priority": 1
+    },
+    {
+      "title": "Netflix",
+      "description": "Write unit tests for the new features.",
+      "assignee": "Leo",
+      "status": "In Progress",
+      "priority": 4
+    },
+    {
+      "title": "Sony",
+      "description": "Design the new logo.",
+      "assignee": "Mia",
+      "status": "Pending",
+      "priority": 7
+    },
+    {
+      "title": "IBM",
+      "description": "Set up the CI/CD pipeline.",
+      "assignee": "Nina",
+      "status": "In Progress",
+      "priority": 5
+    },
+    {
+      "title": "Twitter",
+      "description": "Gather feedback from beta testers.",
+      "assignee": "Oscar",
+      "status": "Completed",
+      "priority": 3
+    }
+  ]
+}
